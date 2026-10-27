@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.sqlite3*
+.env
+.pio/
+firmware/include/secrets.h
